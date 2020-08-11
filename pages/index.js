@@ -1,6 +1,9 @@
+import Header from '../components/header';
+
 const Index = () => (
     <div>
-      <h1>Home Page</h1>
+        <Header />
+      <h1>Home Text</h1>
     </div>
 )
 
